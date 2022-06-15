@@ -1,0 +1,50 @@
+*{
+    padding:0;
+    margin:0;
+    color:#fff;
+}
+body{
+    background: #000;
+}
+
+
+button{
+    background: red;
+}
+
+
+iframe{
+    width:100% !important;
+    height:100% !important;
+}
+
+.div1{
+    margin-top:70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+button{
+    background: #19a061;
+    /* padding: 20px ; */
+    margin: 20px;
+    border-radius: 20px;
+    width:400px;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: #f1f1f1;
+    font-size: 20px;
+    width: 90%;
+    padding: 20px;
+    display: inline-block ;
+    /* margin: 20px; */
+    /* position: absolute; */
+    
+}
